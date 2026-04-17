@@ -2,7 +2,7 @@
 
 ## Consultant - Cloud Engineering
 
-![Cloud animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Cloud animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRxcW93bjMyNXUxMnR1ajhrcmRzcTY1YTFmN3MyMTdhODdseWd5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs61tb48UzaS4j5iBk/giphy.gif)
 
 Hello! I'm Thaamarai, and I work as a Cloud Engineer at SST Cloud.
 
