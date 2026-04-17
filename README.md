@@ -1,38 +1,31 @@
-# [Project Name]
+# 👋 Hi, I'm [Thaamrai Kannan SAS]
 
-[![GitHub license](https://img.shields.io/github/license/[Username]/[Repo-Name])](https://github.com/[Username]/[Repo-Name]/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/[Username]/[Repo-Name])](https://github.com/[Username]/[Repo-Name]/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/[Username]/[Repo-Name])](https://github.com/[Username]/[Repo-Name]/issues)
-
-> A brief, one-to-two sentence description of what this project does and why it exists.
+### [Consultant - Cloud Engineering] based in [SST Cloud Solutions PVT LTD]
 
 ---
 
-## 🚀 Features
+### 🛠️ My Tech Stack
 
-- **Feature A**: Description of a core capability.
-- **Feature B**: Another benefit or technical highlight.
-- **Responsive**: Works across mobile and desktop.
-- **Fast**: Optimized for performance and low latency.
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
-## 🛠️ Tech Stack
+---
 
-- **Frontend**: [e.g., React, Tailwind CSS]
-- **Backend**: [e.g., Node.js, Express]
-- **Database**: [e.g., MongoDB, PostgreSQL]
-- **Deployment**: [e.g., Vercel, AWS]
+### 🚀 About Me
 
-## 🏁 Getting Started
+- 🔭 **Current Project:** Working on multiple projects in SST Cloud.
+- 🌱 **Learning:** Currently diving deep into [AWS Solutions Architect - Professional Certification].
+- 💬 **Ask me about:** [AWS], [DevOps], and why I think [].
+- ⚡ **Fun Fact:** When I'm not coding, I'm usually [Playing chess].
 
-### Prerequisites
+---
 
-List any software needed to run the project:
-* npm or yarn
-* [Specific Language Runtime, e.g., Python 3.10+]
 
-### Installation
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Username]/[Repo-Name].git
-   cd [Repo-Name]
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/[thaamaraikannansas])
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://thaamaraikannan.com)
